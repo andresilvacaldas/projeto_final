@@ -8,4 +8,4 @@ COMO EXECUTAR
 
 4-Certifique-se que esta com todas configurações necessárias para o funcionamento do código.
 
-VÍDEO DA PLACA : 
+VÍDEO DA PLACA : https://www.youtube.com/watch?v=41F0i3uDGAM
